@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: This is a superhero headline.
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ###### This is a super-cool hero ***subhead***.
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
